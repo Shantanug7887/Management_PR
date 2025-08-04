@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Management_Portal.Controllers
 {
+    // First GitHub Test
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
